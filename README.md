@@ -1,0 +1,2 @@
+# QualityPack
+Modrinth Fabric modpack
